@@ -6,4 +6,8 @@ Le fonctionnement est très simple mais le langage rend le tout très peu lisibl
 
 Tictactoe est un jeu de morpion codé en python. Nous jouons contre l'ordinateur qui utilise l'algorithme minimax. C'est donc impossible de gagner contre elle. 
 
-Perceptron est un notebook Jupyter ou je me familiarise avec la bibliothèque Pandas. J'y manipule des dataFrame et la bibliothèque Matplotlib aussi. Le but final était de creer un modèle qui puisse prédire la survie d'un passager du Titanic. A la fin de ce notebook, le fichier csv est traité et il en résulte un nouveau fichier csv modifié et prêt à être utilisé pour un modèle de sklearn. 
+Jeu.py est un tour par tour très rudimentaire sur lequel j'ai voulu baser mon appliction graphique en Java. Ce code s'est fait en programmation objet orienté.
+
+Perceptron est un notebook Jupyter ou je me familiarise avec la bibliothèque Pandas. J'y manipule des dataFrame et la bibliothèque Matplotlib aussi. Le but final était de creer un modèle qui puisse prédire la survie d'un passager du Titanic. A la fin de ce notebook, le fichier csv est traité et il en résulte un nouveau fichier csv modifié et prêt à être utilisé pour un modèle de sklearn.
+
+
