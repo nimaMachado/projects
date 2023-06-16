@@ -6,8 +6,8 @@ Le fonctionnement est très simple mais le langage rend le tout très peu lisibl
 
 Tictactoe est un jeu de morpion codé en python. Nous jouons contre l'ordinateur qui utilise l'algorithme minimax. C'est donc impossible de gagner contre elle. 
 
-Jeu.py est un tour par tour très rudimentaire sur lequel j'ai voulu baser mon appliction graphique en Java. Ce code s'est fait en programmation objet orienté.
+Jeu.py est un tour par tour très rudimentaire sur lequel j'ai voulu baser mon appliction graphique en Java. Ce code s'est fait en python programmation objet orienté.
 
 Perceptron est un notebook Jupyter ou je me familiarise avec la bibliothèque Pandas. J'y manipule des dataFrame et la bibliothèque Matplotlib aussi. Le but final était de creer un modèle qui puisse prédire la survie d'un passager du Titanic. A la fin de ce notebook, le fichier csv est traité et il en résulte un nouveau fichier csv modifié et prêt à être utilisé pour un modèle de sklearn.
 
-C'est dans nombre que j'ai experimenté pour la première fois avec la bibliothèque sklearn. Les matrice des images étaient déjà présente dans cette bibliothèque pour pouvoir se familiariser avec l'utilisation de modèle. Ici c'est une régression logistique. Nous traitons bien sûr d'abord les données ensuite en divise celle-ci en 2 groupes. Il y a celles avec lesquelles on construit notre modèle et celles qui nous servirons de test pour le modèle. C'est à la fin, au moment de fit que ça ne marche pas. J'ai bien essayé d'augmenter le nombre d'itération. Je ne voulais changer
+C'est dans nombre que j'ai experimenté pour la première fois avec la bibliothèque sklearn. Les matrice des images étaient déjà présente dans cette bibliothèque pour pouvoir se familiariser avec l'utilisation de modèle. Ici c'est une régression logistique. Nous traitons bien sûr d'abord les données ensuite en divise celle-ci en 2 groupes. Il y a celles avec lesquelles on construit notre modèle et celles qui nous servirons de test pour le modèle. C'est à la fin, au moment de fit que ça ne marche pas. J'ai bien essayé d'augmenter le nombre d'itération mais rien n'y fait.
